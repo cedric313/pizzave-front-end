@@ -1,0 +1,7 @@
+{
+  "name": "pizzave",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
